@@ -1,0 +1,22 @@
+{
+  "welcome_dashboard": "🛡️ *NIRVOY GUARD PRO* - Admin Dashboard\n\nSecurity Status: 🟢 ACTIVE\nTarget Chat: *{chat_title}*\nLanguage: English 🇺🇸\n\nSelect an option below to manage protection:",
+  "access_denied": "❌ Access denied! You lack permission for this action.",
+  "session_expired": "⚠️ Your admin session has expired. Please authenticate again.",
+  "secret_key_prompt": "🔐 Please enter the admin secret key to proceed:",
+  "login_success": "✅ Successfully authenticated as administrator!",
+  "login_failed": "❌ Invalid secret key! Unauthorized attempt recorded.",
+  "feature_toggled": "⚙️ Settings updated successfully!",
+  "anti_spam": "🛡️ Anti-Spam",
+  "anti_promo": "🚫 Anti-Promotion",
+  "anti_link": "🔗 Link Filter",
+  "anti_raid": "⚡ Anti-Raid",
+  "warn_limit": "⚠️ Max Warns: {count}",
+  "user_warned": "⚠️ {user_mention}, rule violation detected!\nReason: {reason}\nWarnings: [{current}/{max}]",
+  "user_muted": "🔇 {user_mention} has been muted for {duration} minutes.",
+  "user_banned": "🚫 {user_mention} exceeded maximum warnings and has been banned!",
+  "user_unbanned": "✅ {user_mention} has been unbanned.",
+  "user_unmuted": "🔊 {user_mention} has been unmuted.",
+  "action_undone": "✅ Action reverted successfully.",
+  "raid_alert": "🚨 *Raid Alert!* Abnormal join rate detected. Automated lockdown is now active!",
+  "lockdown_lifted": "🛡️ Emergency lockdown lifted. Chat restored to standard mode."
+}
